@@ -1,0 +1,130 @@
+skip_words: []
+skip_on_beginning: 0
+skip_with_new_category: true
+skip_on_semicolon: true
+uid: 693904201
+sound_silence_threshold: 600
+cards:
+- category: U-verbs
+  vocabulary:
+  - japanese: いく
+    english: to go (dictionary form)
+    kanji: 行く
+  - japanese: いきます
+    english: go (present affirmative)
+    kanji: 行きます
+  - japanese: いきません
+    english: do not go (present negative)
+    kanji: 行きません
+  - japanese: かえる
+    english: to return; to go back (dictionary form)
+    kanji: 帰る
+  - japanese: かえります
+    english: return (present affirmative)
+    kanji: 帰ります
+  - japanese: かえりません
+    english: do not return (present negative)
+    kanji: 帰りません
+  - japanese: きく
+    english: to listen; to hear; to ask (dictionary form)
+    kanji: 聞く
+  - japanese: ききます
+    english: listen; hear; ask (present affirmative)
+    kanji: 聞きます
+  - japanese: ききません
+    english: do not listen; do not hear; do not ask (present negative)
+    kanji: 聞きません
+  - japanese: のむ
+    english: to drink (dictionary form)
+    kanji: 飲む
+  - japanese: のみます
+    english: drink (present affirmative)
+    kanji: 飲みます
+  - japanese: のみません
+    english: do not drink (present negative)
+    kanji: 飲みません
+  - japanese: はなす
+    english: to speak; to talk (dictionary form)
+    kanji: 話す
+  - japanese: はなします
+    english: speak; talk (present affirmative)
+    kanji: 話します
+  - japanese: はなしません
+    english: do not speak; do not talk (present negative)
+    kanji: 話しません
+  - japanese: よむ
+    english: to read (dictionary form)
+    kanji: 読む
+  - japanese: よみます
+    english: read (present affirmative)
+    kanji: 読みます
+  - japanese: よみません
+    english: do not read (present negative)
+    kanji: 読みません
+- category: Ru-verbs
+  vocabulary:
+  - japanese: おきる
+    english: to get up; to wake up (dictionary form)
+    kanji: 起きる
+  - japanese: おきます
+    english: get up; wake up (present affirmative)
+    kanji: 起きます
+  - japanese: おきません
+    english: do not get up; do not wake up (present negative)
+    kanji: 起きません
+  - japanese: たべる
+    english: to eat (dictionary form)
+    kanji: 食べる
+  - japanese: たべます
+    english: eat (present affirmative)
+    kanji: 食べます
+  - japanese: たべません
+    english: do not eat (present negative)
+    kanji: 食べません
+  - japanese: ねる
+    english: to sleep; to go to sleep (dictionary form)
+    kanji: 寝る
+  - japanese: ねます
+    english: sleep; go to sleep (present affirmative)
+    kanji: 寝ます
+  - japanese: ねません
+    english: do not sleep; do not go to sleep (present negative)
+    kanji: 寝ません
+  - japanese: みる
+    english: to see; to look at; to watch (dictionary form)
+    kanji: 見る
+  - japanese: みます
+    english: see; look at; watch (present affirmative)
+    kanji: 見ます
+  - japanese: みません
+    english: do not see; do not look at; do not watch (present negative)
+    kanji: 見ません
+- category: Irregular_Verbs
+  vocabulary:
+  - japanese: くる
+    english: to come (dictionary form)
+    kanji: 来る
+  - japanese: きます
+    english: come (present affirmative)
+    kanji: 来ます
+  - japanese: きません
+    english: do not come (present negative)
+    kanji: 来ません
+  - japanese: する
+    english: to do (dictionary form)
+    kanji: ''
+  - japanese: します
+    english: do (present affirmative)
+    kanji: ''
+  - japanese: しません
+    english: do not do (present negative)
+    kanji: ''
+  - japanese: べんきょうする
+    english: to study (dictionary form)
+    kanji: 勉強する
+  - japanese: べんきょうします
+    english: study (present affirmative)
+    kanji: 勉強します
+  - japanese: べんきょうしません
+    english: do not study (present negative)
+    kanji: 勉強しません
