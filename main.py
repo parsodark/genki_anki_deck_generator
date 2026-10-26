@@ -99,7 +99,10 @@ if __name__ == "__main__":
     uids = []
     for_decks(decks, lambda d: check_uids(uids, d))
 
-    export_to_anki(decks)
+    # filter decks, so I only export mines
+    # the decks are still generated beforehands, so that I can copy similar sounds
+    pierrick_decks = [deck for deck in decks if deck.name not in ("Genki 1", "Genki 2")]
+    export_to_anki(pierrick_decks)
 
 
     # deck = Deck.parse("data/genki_l01_vocabulary.yaml")
